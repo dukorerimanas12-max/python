@@ -1,0 +1,4 @@
+streamlit
+OpenCV
+inference_sdk
+numpy
