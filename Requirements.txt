@@ -1,4 +1,0 @@
-ultralytics
-inference-sdk
-streamlit
-opencv-python
